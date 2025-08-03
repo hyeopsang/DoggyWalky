@@ -16,7 +16,6 @@
 - **State Management**: Zustand, Redux Toolkit  
 - **Backend**: Supabase (Realtime, Auth, Database)  
 - **지도 API**: Kakao Map API, Google Maps API (추가 예정)  
-- **기타**: Firebase Functions (Kakao Auth 처리 등)
 
 ---
 
