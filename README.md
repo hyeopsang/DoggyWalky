@@ -2,7 +2,7 @@
   <img height="250" alt="Group 1 (4)" src="https://github.com/user-attachments/assets/cfb1190f-c28d-4e5e-91fa-658cd3a3b611" />
 </p>
 
-## 🐾 프로젝트 소개
+## 🐾 Doggy Walky 프로젝트 소개
 
 **Doggy Walky**는 반려견과 보호자를 위한 **산책 및 돌봄 지원 플랫폼**입니다.  
 실시간 위치 공유, 산책 루트 기록 등
