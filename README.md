@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0dc0694d-32ce-4f47-bc8f-5a9ade363306" alt="logo" height="300">
+  <img width="419" height="308" alt="Group 1 (4)" src="https://github.com/user-attachments/assets/cfb1190f-c28d-4e5e-91fa-658cd3a3b611" />
 </p>
 
 ## 🐾 프로젝트 소개
